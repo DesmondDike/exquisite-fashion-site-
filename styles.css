@@ -1,0 +1,93 @@
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+
+
+h1{
+   
+    margin-bottom: 50px;
+    font-size: x-large;
+    text-align: center;
+}
+
+body{
+background-image: url(girl.webp);
+background-size: cover;
+height: 700px;
+width: 500px;
+color: white;
+
+}
+
+.main{
+border: 1px solid black;
+background-color: #3F3F3F;
+opacity: 0.75;
+width: 250px;
+height: 370px;
+margin-right: auto;
+margin-left: auto;
+}
+
+input{
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-right: auto;
+margin-left: auto;
+line-height: 20px;
+}
+
+.btn{
+    color: white;
+    background-color: red;
+    border: 0 none red;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px 20px;
+    margin-top: 50px;
+}
+
+
+h5{
+    
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.login{
+    display: flexbox;
+    text-align: center;
+
+}
+
+.b1{
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+}
+
+.b2{
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+}
+.b3{
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+}
+
+.footer{
+    text-align: center;
+    font-size: small;
+}
